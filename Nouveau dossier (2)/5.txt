@@ -1,0 +1,13 @@
+ <select>
+        <option value="WebTrack">Web Track</option>
+        <option value="AITrack">AI Track</option>
+        <option value="GameTrack">Game Track</option>
+        <option value="DataScienceTrack">Data Science Track</option>
+      </select>
+
+
+https://youtu.be/BHwFYEwOilM
+
+
+
+https://www.youtube.com/watch?v=p7CK9i8gC8k&list=PLMTdZ61eBnyrnapIyOphXAkIcR5DDOGkz&index=11

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html> 
+<head> 
+ <title>html<title> 
+    <meta charset="utf-8"> 
+ </head>
+ <body> 
+  <strong> un line vers un site web:</strong>
+  <a href=".com"target="blank"> google</a><br> 
+  <strong> un lien vers une page html<strong>  
+    <a href=".html"target="blank "> my page<a> <br>
+   <strong> un lien vers un document<strong> 
+    <a href="imag/jj.png"target="blank "> photo<a> 
+    <strong >listes de definitions</strong>
+    <dl>
+     <dt>
+       <dd>
+        
+
+
+
+
+
+
+
+        $
+       </dd> 

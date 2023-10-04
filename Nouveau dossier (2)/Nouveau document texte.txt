@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> html </title>
+        <link rel="icon" href="asset/image.jpg">
+    </head>
+    <body>
+        
+        <header>
+         <table>  
+         <h1> portfolio </h1>   
+         <nav>
+            <a href="#home">home</a>
+            <a href="#home">about</a>
+            <a href="#home">work et services</a>
+            <a href="#home">contact</a>
+         </nav>
+        </header>
+        <main>
+            <section id="home">
+             <h2> home </h2>
+             <iframe width="560" height="315" src="https://www.youtube.com/embed/Wn3bVMLYHhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </section>
+            <section>
+            <h2>     about </h2>    
+            <dl>
+             <p>My name is rhouma ali</p>
+             <d1>skill</d1>
+             <dd>react</dd>
+             <dd><strong>html</strong></dd>
+             <dd>softskills</dd><br>
+             <dd>communication</dd>
+             <dd><b>ie</b></dd>
+            </dl>
+
+
+            </section>
+            <dl>
+            <section id="home">
+            <h2>home</h2> 
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/Wn3bVMLYHhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   
+            <dd>communction</dd>
+            <dd><b>ie</b></dd>
+            </section>
+        </dl>
+        <img src="asset/image.jpg" alt="not found" width="50%" heigth="50%">
+        <section>
+        <section id="work">
+         <tr>
+         <th>field</th>
+         <th>status</th>
+         <th>disc</th>   
+         </tr>
+         <tr>
+         <td>web developppemnt</td>
+         <td>web developper</td>
+         <td>web site</td>   
+         </tr>
+        </table>
+        <section id="contact">
+            <h2>contact</h2>
+            <form>
+             <label>name</label>
+             <input type="text" place holder='entrer votre nom'>
+             <label> email</label>
+             <input type="e mail" place holder=" entrer votre email" >
+             <label>passeword</label>
+             <input type="passeword" place holder="entrer passeword">
+            </form> 
+            <button>envoyer</button>
+            </section> 
+        </main>
+        <footer>
+         <p>@2021</p>
+         <a href="# top">take in up</a>   
+        </footer>
+
+
+
+
+
+
+
+
+        
+    </body>
+
+
+</html>
